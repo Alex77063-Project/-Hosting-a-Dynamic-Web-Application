@@ -1,3 +1,6 @@
+
+(https://github.com/user-attachments/assets/1f327ea2-1c21-448e-8080-d10cea35bff3)
+
 # AWS Architecture for Hosting a Dynamic Web Application
 
 This project demonstrates how to host a dynamic web application using AWS resources. It leverages AWS services to ensure high availability, scalability, and security.
